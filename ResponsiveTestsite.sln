@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ResponsiveTestsite", "http://localhost:52254", "{D5AD67DB-66AC-4E10-B9BA-45CFCBEDAE91}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52254"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Copy\Documents\skole\css\Responsive Webdesign\Øvelse 2 - Viewport og CSS Media Queries\ResponsiveTestsite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52254\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52254"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Copy\Documents\skole\css\Responsive Webdesign\Øvelse 2 - Viewport og CSS Media Queries\ResponsiveTestsite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52254\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\..\Copy\Documents\skole\css\Responsive Webdesign\Øvelse 2 - Viewport og CSS Media Queries\ResponsiveTestsite\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5AD67DB-66AC-4E10-B9BA-45CFCBEDAE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5AD67DB-66AC-4E10-B9BA-45CFCBEDAE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
